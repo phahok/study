@@ -1,32 +1,39 @@
 body{
-    background-color: rgb(209, 209, 212);
+    background-color: #808080;
+    background-image: url(https://image.tmdb.org/t/p/original/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
+img {
+    opacity: 0.5;
+  }
+
 table{
-    color: rgb(9, 10, 10);
+    color: #000000;
 }
 
 h1 {
-    color: rgb(10, 10, 10);
+    color: #000000;
 }
 
 h2 {
-    color: brown;
+    color: #a52a2a;
 }
 h3{
-    color: azure;
+    color: #f0ffff;
 }
 ul {
-    color: red;
+    color: #ff0000;
 }
 
 #titulo{
-    color: coral;
+    color: #ff7f50;
 }
 
 .h1color{
-    color: red;
-    background-color: rgb(8, 8, 8);
+    color: #ff0000;
+    background-color: #ffff00;
 }
 
 #size_tit{
@@ -35,22 +42,22 @@ ul {
 }
 
 #iddois{
-    color: black;
+    color: #000000;
     font-size: 20px;
-    background-color: brown;
+    background-color: #a52a2a;
     max-width: 120px;
 }
 
 #idtres{
     color: rgb(241, 248, 241);
     font-size: 20px;
-    background-color: rgb(43, 130, 180);
+    background-color: #ffe4c4;
     max-width: 120px;
 }
 
 #idquatro{
-    color: rgb(84, 87, 87);
+    color: #545757;
     font-size: 20px;
-    background-color: rgb(227, 255, 127);
+    background-color: #adff2f;
     max-width: 120px;
 }
