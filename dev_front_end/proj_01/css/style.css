@@ -6,7 +6,8 @@ body{
 }
 
 img {
-    opacity: 0.5;
+    width: 120px;
+    opacity: 1.5;
   }
 
 table{
